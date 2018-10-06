@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using Platformer;
 
-public class XNATest : MonoBehaviour {
+public class Monogamy : MonoBehaviour {
     PlatformerGame game;
 	DrawQueue drawQueue;
 	
